@@ -1,4 +1,5 @@
-# IOT =>google Slides =>https://docs.google.com/presentation/d/1pNIL-eYZo49jkhxxKWjMRPjDVsHrNbmdnHr9sFK2Jsg/edit?usp=sharing
+# IOT =>
+/*Google Slides =>https://docs.google.com/presentation/d/1pNIL-eYZo49jkhxxKWjMRPjDVsHrNbmdnHr9sFK2Jsg/edit?usp=sharing
 IOT Platform and Solutions 
 
 /*As you can see, IoT platforms features basically overlap, though they are packaged differently. Along with a rich functionality, all of them offer :
