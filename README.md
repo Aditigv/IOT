@@ -1,4 +1,4 @@
-# IOT Platforms=>
+# IOT Platforms
 /*Google Slides =>https://docs.google.com/presentation/d/1pNIL-eYZo49jkhxxKWjMRPjDVsHrNbmdnHr9sFK2Jsg/edit?usp=sharing
 IOT Platform and Solutions 
 
